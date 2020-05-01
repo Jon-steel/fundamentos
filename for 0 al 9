@@ -1,0 +1,4 @@
+rango = range(0,10)
+print rango
+for i in range (0,10):
+    print i
