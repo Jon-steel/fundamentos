@@ -1,0 +1,5 @@
+a = raw_input("numero de la tabla")
+a = int(a)
+for b in range(1,11):
+    c=a*b
+    print "%s X %s = %s" %(a,b,c)
